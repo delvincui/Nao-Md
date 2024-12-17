@@ -30,43 +30,43 @@ const more = String.fromCharCode(8206)
 const readMore = more.repeat(4001)
 
 /*============= MAIN INFO =============*/
-global.pairing = '6285864034767'
-global.owner = [['6285174269046', 'ShirokamiRyzen', true]]
+global.pairing = '6289635621784'
+global.owner = [['639633230473', 'VinzzTzy', true]]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285864034767'
-global.nomorown = '6285174269046'
+global.nomorbot = '6289635621784'
+global.nomorown = '639633230473'
 
 /*============= WATERMARK =============*/
 global.readMore = readMore
-global.author = 'Shirokami Ryzen'
+global.author = 'VinzzTzy'
 global.namebot = 'Nao-MD ESM'
-global.wm = '© Nao-MD By Shirokami Ryzen'
+global.wm = '© Nao-MD By VinzzTzy'
 global.watermark = wm
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.stickpack = `Sticker Dibuat dengan ${namebot}\ngithub.com/ShirokamiRyzen\n\nNao-MD ESM\n+${nomorbot}`
-global.stickauth = `© Nao-MD By Shirokami Ryzen`
+global.stickpack = `Sticker Dibuat dengan ${namebot}\ngithub.com/delvincui\n\nNao-MD ESM\n+${nomorbot}`
+global.stickauth = `© Nao-MD By VinzzTzy`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 
 //*============= SOSMED =============*/
-global.sig = 'https://www.instagram.com/ryzen_vermillion'
-global.sgh = 'https://github.com/ShirokamiRyzen'
-global.sgc = 'https://whatsapp.com/channel/0029VaGoqK589indDi4Am40J'
+global.sig = 'https://www.instagram.com/vanzzzi0.0'
+global.sgh = 'https://github.com/delvincui'
+global.sgc = 'https://whatsapp.com/channel/0029VacTNJW0AgW3QiC0kF2u'
 global.sgw = 'https://ryzendesu.vip'
 global.sdc = '-'
-global.sfb = 'https://www.facebook.com/Nao.Tomori.UwU'
-global.snh = 'https://www.instagram.com/ryzen_vermillion'
+global.sfb = 'https://www.instagram.com/vanzzzi0.0'
+global.snh = 'https://www.instagram.com/vanzzzi0.0'
 
 /*============= DONASI =============*/
-global.pdana = '085174269046'
+global.pdana = '6289635621784'
 global.povo = '-'
-global.pgopay = '085174269046'
+global.pgopay = '6289635621784'
 global.plinkaja = '-'
-global.ppulsa = '085174269046'
-global.ppulsa2 = '085174269046'
-global.psaweria = 'https://saweria.co/shirokamiryzen'
+global.ppulsa = '6289635621784'
+global.ppulsa2 = '6289635621784'
+global.psaweria = 'https://saweria.co/delvintzy'
 global.bank1 = '109901209640'
 global.bank2 = '-'
 
